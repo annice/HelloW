@@ -9,7 +9,9 @@ public class Hello {
 		System.out.println("On Branch1");
 		System.out.println("Welcome to branch1 again");
 		System.out.println("Branch 1 checked out another time");
+		System.out.println("Bye, Earth");
 		System.out.println("Bye,  World");
+		
 		
 		
 	}
