@@ -6,7 +6,7 @@ public class Hello {
 		System.out.println("Hello, World!");
 		System.out.println("Welcome to new World");
 		/*Resolve conflict - keep branch and master*/
-		System.out.println("On Branch1");
+		System.out.println("On Branchq");
 		System.out.println("On Branch2");
 		System.out.println("Welcome to master");
 		/*End COnflict*/
